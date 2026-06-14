@@ -1,6 +1,6 @@
 # Online Course Registration System
 
-This project is my college project, developed during my time in college as a PHP-based online course registration and management system.
+This project is my college project, developed during my time (2020) in college as a PHP-based online course registration and management system.
 
 It allows students to register, log in, view available courses, enroll in courses, and check their enrollment history, while admins can manage courses, departments, levels, semesters, and student records.
 
